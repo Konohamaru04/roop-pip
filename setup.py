@@ -23,8 +23,7 @@ setup(
         "opennsfw2==0.10.2",
         "protobuf==4.23.4",
         "tqdm==4.65.0",
-        "gfpgan==1.3.8",
-        "typing-extensions==4.8.0"
+        "gfpgan==1.3.8"
     ],
     dependency_links=[
         "https://download.pytorch.org/whl/cu118"
